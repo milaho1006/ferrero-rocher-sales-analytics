@@ -1,0 +1,12 @@
+Check,Passed
+Rows retained,True
+No missing output values,True
+Dates in documented 2025 range,True
+Positive integer units,True
+Positive prices,True
+Discounts between zero and one,True
+Margin percentage within zero to 100,True
+Revenue formula reconciles,True
+Margin formula reconciles,True
+Revenue total preserved,True
+Margin total preserved,True

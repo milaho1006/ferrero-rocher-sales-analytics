@@ -1,0 +1,5 @@
+Change,Affected rows
+Trim retailer whitespace,1363
+Label null promotion as No promotion,3256
+Convert Excel dates,20000
+Rows deleted,0
