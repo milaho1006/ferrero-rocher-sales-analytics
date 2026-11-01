@@ -1,0 +1,13 @@
+Column Name,Data Type,Description,Sample Values / Range
+Store,String,The name of the retailer or store where the sale occurred.,"Walmart, Tesco, Carrefour, Amazon Fresh, Costco"
+Country,String,The country where the store is located.,"UK, USA, India, UAE, Canada, Australia, Singapore"
+SKU,String,Stock Keeping Unit; represents the specific product variant sold.,"Ferrero Rocher T3, Ferrero Rocher 24pc, Ferrero Collection 15pc"
+Date,Integer,The date of the transaction in Excel Serial Date format. Covers the full year of 2025.,Min: 45658 (2025-01-01)Max: 46022 (2025-12-31)
+Channel,String,The sales channel through which the transaction was made.,"Retail, Wholesale, Online, Offline"
+Promotion,String,The marketing promotion applied to the sale. NaN indicates no promotion was active.,"Diwali Promo, Buy1Get1, NewYear Sale, Christmas Promo, Valentine Promo"
+Units Sold,Integer,The quantity of units sold in the transaction.,Range: 10 - 199
+Unit Price,Integer,"The price of a single unit before any discounts (currency not specified, likely local or normalized).",Range: 120 - 750
+Discount,Float,The discount percentage applied to the unit price.,Range: 0.00 (0%) - 0.50 (50%)
+Revenue,Float,The total income generated from the sale. Calculated as: Units Sold * Unit Price * (1 - Discount),"Range: 600.0 - 149,250.0"
+Margin %,Integer,The profit margin percentage for the transaction.,Range: 25% - 40%
+Margin,Float,The total profit amount earned from the transaction. Calculated as: Revenue * (Margin % / 100),"Range: 156.0 - 57,622.5"
