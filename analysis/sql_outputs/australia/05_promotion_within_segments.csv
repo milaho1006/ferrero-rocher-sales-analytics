@@ -1,0 +1,91 @@
+sku,channel,promotion,discount,sales_records,units_per_record,revenue_per_record
+Ferrero Collection 15pc,Online,No promotion,0.0,21,99.66666666666667,64783.333333333336
+Ferrero Collection 15pc,Online,Valentine Promo,0.1,29,93.86206896551724,54909.31034482759
+Ferrero Collection 15pc,Online,Diwali Promo,0.15,32,111.53125,61621.015625
+Ferrero Collection 15pc,Online,Christmas Promo,0.2,25,100.72,52374.4
+Ferrero Collection 15pc,Online,NewYear Sale,0.25,31,109.35483870967742,53310.48387096774
+Ferrero Collection 15pc,Online,Buy1Get1,0.5,34,118.1470588235294,38397.794117647056
+Ferrero Collection 15pc,Retail,No promotion,0.0,31,92.96774193548387,60429.032258064515
+Ferrero Collection 15pc,Retail,Valentine Promo,0.1,25,116.64,68234.4
+Ferrero Collection 15pc,Retail,Diwali Promo,0.15,28,106.32142857142857,58742.58928571428
+Ferrero Collection 15pc,Retail,Christmas Promo,0.2,26,116.38461538461539,60520.0
+Ferrero Collection 15pc,Retail,NewYear Sale,0.25,33,107.96969696969697,52635.22727272727
+Ferrero Collection 15pc,Retail,Buy1Get1,0.5,29,106.86206896551724,34730.1724137931
+Ferrero Collection 15pc,Wholesale,No promotion,0.0,25,108.8,70720.0
+Ferrero Collection 15pc,Wholesale,Valentine Promo,0.1,45,106.35555555555555,62218.0
+Ferrero Collection 15pc,Wholesale,Diwali Promo,0.15,42,107.78571428571429,59551.607142857145
+Ferrero Collection 15pc,Wholesale,Christmas Promo,0.2,36,107.19444444444444,55741.11111111111
+Ferrero Collection 15pc,Wholesale,NewYear Sale,0.25,32,108.28125,52787.109375
+Ferrero Collection 15pc,Wholesale,Buy1Get1,0.5,28,94.07142857142857,30573.214285714286
+Ferrero Rocher 16pc,Online,No promotion,0.0,32,122.53125,42885.9375
+Ferrero Rocher 16pc,Online,Valentine Promo,0.1,31,104.96774193548387,33064.83870967742
+Ferrero Rocher 16pc,Online,Diwali Promo,0.15,29,79.79310344827586,23738.44827586207
+Ferrero Rocher 16pc,Online,Christmas Promo,0.2,26,113.57692307692308,31801.53846153846
+Ferrero Rocher 16pc,Online,NewYear Sale,0.25,37,104.13513513513513,27335.472972972973
+Ferrero Rocher 16pc,Online,Buy1Get1,0.5,29,101.34482758620689,17735.344827586207
+Ferrero Rocher 16pc,Retail,No promotion,0.0,24,91.41666666666667,31995.833333333332
+Ferrero Rocher 16pc,Retail,Valentine Promo,0.1,35,100.31428571428572,31599.0
+Ferrero Rocher 16pc,Retail,Diwali Promo,0.15,17,101.29411764705883,30135.0
+Ferrero Rocher 16pc,Retail,Christmas Promo,0.2,37,110.67567567567568,30989.18918918919
+Ferrero Rocher 16pc,Retail,NewYear Sale,0.25,33,112.63636363636364,29567.045454545456
+Ferrero Rocher 16pc,Retail,Buy1Get1,0.5,30,106.76666666666667,18684.166666666668
+Ferrero Rocher 16pc,Wholesale,No promotion,0.0,36,100.22222222222223,35077.77777777778
+Ferrero Rocher 16pc,Wholesale,Valentine Promo,0.1,31,91.83870967741936,28929.1935483871
+Ferrero Rocher 16pc,Wholesale,Diwali Promo,0.15,38,109.8157894736842,32670.197368421053
+Ferrero Rocher 16pc,Wholesale,Christmas Promo,0.2,36,118.25,33110.0
+Ferrero Rocher 16pc,Wholesale,NewYear Sale,0.25,24,114.25,29990.625
+Ferrero Rocher 16pc,Wholesale,Buy1Get1,0.5,39,110.46153846153847,19330.76923076923
+Ferrero Rocher 24pc,Online,No promotion,0.0,22,117.0,64350.0
+Ferrero Rocher 24pc,Online,Valentine Promo,0.1,26,104.38461538461539,51670.38461538462
+Ferrero Rocher 24pc,Online,Diwali Promo,0.15,28,94.25,44061.875
+Ferrero Rocher 24pc,Online,Christmas Promo,0.2,36,106.11111111111111,46688.88888888889
+Ferrero Rocher 24pc,Online,NewYear Sale,0.25,37,87.75675675675676,36199.66216216216
+Ferrero Rocher 24pc,Online,Buy1Get1,0.5,35,103.34285714285714,28419.285714285714
+Ferrero Rocher 24pc,Retail,No promotion,0.0,30,115.96666666666667,63781.666666666664
+Ferrero Rocher 24pc,Retail,Valentine Promo,0.1,33,112.0,55440.0
+Ferrero Rocher 24pc,Retail,Diwali Promo,0.15,39,112.43589743589743,52563.782051282054
+Ferrero Rocher 24pc,Retail,Christmas Promo,0.2,27,135.66666666666666,59693.333333333336
+Ferrero Rocher 24pc,Retail,NewYear Sale,0.25,28,100.46428571428571,41441.517857142855
+Ferrero Rocher 24pc,Retail,Buy1Get1,0.5,33,103.51515151515152,28466.666666666668
+Ferrero Rocher 24pc,Wholesale,No promotion,0.0,37,95.27027027027027,52398.64864864865
+Ferrero Rocher 24pc,Wholesale,Valentine Promo,0.1,32,113.90625,56383.59375
+Ferrero Rocher 24pc,Wholesale,Diwali Promo,0.15,26,92.57692307692308,43279.71153846154
+Ferrero Rocher 24pc,Wholesale,Christmas Promo,0.2,36,94.41666666666667,41543.333333333336
+Ferrero Rocher 24pc,Wholesale,NewYear Sale,0.25,38,79.42105263157895,32761.184210526317
+Ferrero Rocher 24pc,Wholesale,Buy1Get1,0.5,29,97.62068965517241,26845.689655172413
+Ferrero Rocher 32pc,Online,No promotion,0.0,21,105.71428571428571,79285.71428571429
+Ferrero Rocher 32pc,Online,Valentine Promo,0.1,30,88.9,60007.5
+Ferrero Rocher 32pc,Online,Diwali Promo,0.15,32,104.21875,66439.453125
+Ferrero Rocher 32pc,Online,Christmas Promo,0.2,31,102.96774193548387,61780.645161290326
+Ferrero Rocher 32pc,Online,NewYear Sale,0.25,30,86.83333333333333,48843.75
+Ferrero Rocher 32pc,Online,Buy1Get1,0.5,27,94.62962962962963,35486.11111111111
+Ferrero Rocher 32pc,Retail,No promotion,0.0,27,111.25925925925925,83444.44444444444
+Ferrero Rocher 32pc,Retail,Valentine Promo,0.1,28,85.67857142857143,57833.03571428572
+Ferrero Rocher 32pc,Retail,Diwali Promo,0.15,35,116.48571428571428,74259.64285714286
+Ferrero Rocher 32pc,Retail,Christmas Promo,0.2,32,93.84375,56306.25
+Ferrero Rocher 32pc,Retail,NewYear Sale,0.25,37,102.94594594594595,57907.09459459459
+Ferrero Rocher 32pc,Retail,Buy1Get1,0.5,32,116.3125,43617.1875
+Ferrero Rocher 32pc,Wholesale,No promotion,0.0,25,85.52,64140.0
+Ferrero Rocher 32pc,Wholesale,Valentine Promo,0.1,26,93.03846153846153,62800.96153846154
+Ferrero Rocher 32pc,Wholesale,Diwali Promo,0.15,26,100.88461538461539,64313.942307692305
+Ferrero Rocher 32pc,Wholesale,Christmas Promo,0.2,35,103.14285714285714,61885.71428571428
+Ferrero Rocher 32pc,Wholesale,NewYear Sale,0.25,34,97.73529411764706,54976.10294117647
+Ferrero Rocher 32pc,Wholesale,Buy1Get1,0.5,30,115.4,43275.0
+Ferrero Rocher T3,Online,No promotion,0.0,40,105.975,12717.0
+Ferrero Rocher T3,Online,Valentine Promo,0.1,30,88.3,9536.4
+Ferrero Rocher T3,Online,Diwali Promo,0.15,35,99.8,10179.6
+Ferrero Rocher T3,Online,Christmas Promo,0.2,26,117.46153846153847,11276.307692307691
+Ferrero Rocher T3,Online,NewYear Sale,0.25,26,117.15384615384616,10543.846153846154
+Ferrero Rocher T3,Online,Buy1Get1,0.5,25,95.0,5700.0
+Ferrero Rocher T3,Retail,No promotion,0.0,33,103.39393939393939,12407.272727272728
+Ferrero Rocher T3,Retail,Valentine Promo,0.1,27,98.03703703703704,10588.0
+Ferrero Rocher T3,Retail,Diwali Promo,0.15,41,105.14634146341463,10724.926829268292
+Ferrero Rocher T3,Retail,Christmas Promo,0.2,33,104.42424242424242,10024.727272727272
+Ferrero Rocher T3,Retail,NewYear Sale,0.25,29,116.72413793103448,10505.172413793103
+Ferrero Rocher T3,Retail,Buy1Get1,0.5,28,94.25,5655.0
+Ferrero Rocher T3,Wholesale,No promotion,0.0,29,107.37931034482759,12885.51724137931
+Ferrero Rocher T3,Wholesale,Valentine Promo,0.1,30,101.93333333333334,11008.8
+Ferrero Rocher T3,Wholesale,Diwali Promo,0.15,30,94.56666666666666,9645.8
+Ferrero Rocher T3,Wholesale,Christmas Promo,0.2,28,111.25,10680.0
+Ferrero Rocher T3,Wholesale,NewYear Sale,0.25,29,108.6896551724138,9782.068965517241
+Ferrero Rocher T3,Wholesale,Buy1Get1,0.5,32,101.375,6082.5

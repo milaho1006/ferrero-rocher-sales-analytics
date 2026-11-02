@@ -1,6 +1,4 @@
--- SQLite dialect. Bind :country to one country, initially Australia.
--- Money is in unspecified dataset currency units, not AUD.
--- Promotion comparisons are descriptive, not causal.
+-- SQLite; bind :country to one supplied country.
 
 -- 01_kpis
 SELECT COUNT(*) AS sales_records, SUM(units_sold) AS units_sold,
